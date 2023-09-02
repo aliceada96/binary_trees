@@ -39,4 +39,4 @@ int binary_tree_balance(const binary_tree_t *tree);
 int is_full_recursive(const binary_tree_t *tree);
 int binary_tree_is_full(const binary_tree_t *tree);
 
-#endif /* _BINARY_TREES_H_ *
+#endif /* _BINARY_TREES_H_ */
